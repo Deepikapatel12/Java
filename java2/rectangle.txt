@@ -1,0 +1,14 @@
+class rectangle{
+	public static void main(String arg[]){
+	int length;
+	int width;
+	int r;
+	length=10;
+	width=20;
+r=length*width
+
+
+//step3 operation
+ 	System.out.println("rectangle :"r);
+	}
+}

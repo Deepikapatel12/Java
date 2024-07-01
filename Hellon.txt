@@ -1,0 +1,9 @@
+class Hellon{
+	public static void main(String args[]){
+	int a=Hello
+	String name="Deepika";
+	
+	System.out.println("Name :"+name);
+	System.out.println(a);
+	}
+}
