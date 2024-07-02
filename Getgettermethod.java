@@ -83,6 +83,5 @@ t.setName("deepak");
 System.out.println(t.getRollNo());
 System.out.println(t.getPer());
 System.out.println(t.getName());
-
 }
 }
