@@ -43,13 +43,6 @@
 
 
 
-
-
-
-
-
-
-
 class Test{
 private int rollno=10;//instance variable
 private float per=78.50f;//instance variable
