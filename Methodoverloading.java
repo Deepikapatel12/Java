@@ -7,7 +7,6 @@ class Methodoverloading{
 	System.out.println("Additon without argument"+c);
 	}
 
-
 	public int add(int a, int b){
 	int c;
 	a=10;
