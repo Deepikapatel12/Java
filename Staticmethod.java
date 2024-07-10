@@ -25,10 +25,12 @@ collegeName="LNCT";
 }
 public static void main(String args[]){
 System.out.println("This is Main Method");
+
 Staticmethod s1=new Staticmethod();
 Staticmethod s2=new Staticmethod("Akash");
 
 Staticmethod s3=new Staticmethod();
+
 System.out.println("Number of Object created : "+Staticmethod.getCount());
 System.out.println("Number of Object created : "+getCount());
 System.out.println("Number of Object created : "+s1.getCount());
