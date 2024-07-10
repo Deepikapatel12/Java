@@ -1,10 +1,11 @@
-class Finalvariable{
+class Finalvariable{//final class
 	final int X;//final variable
 	public Finalvariable(){
 		X=20;
 	}
 	
 	}
+
 	class Hello extends Finalvariable{
 		
 	public void show(){
