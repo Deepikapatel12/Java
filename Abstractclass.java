@@ -11,6 +11,7 @@ abstract class RGPV{
 	System.out.println("This is RGPV Constructer");
 	}
 	}
+
 	class Collage extends RGPV{
 		public void cctv(){
 		System.out.println("This is CCTV method Rule by RGPV");
@@ -40,7 +41,6 @@ abstract class RGPV{
 	c.lab();
 	c.examCopyCheck();
 	c.staff();
-
 
 
 		//compile javac Abstractclass.java
