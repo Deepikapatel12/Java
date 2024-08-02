@@ -2,6 +2,7 @@ public class FirstTenPrimes {
     public static void main(String[] args) {
         int count = 0; 
         int number = 2; 
+	 //while (count < 10) {
         while (count < 50) {
             if (isPrime(number)) {
                 System.out.println(number);
